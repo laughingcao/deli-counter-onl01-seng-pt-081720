@@ -6,3 +6,5 @@ def line(katz_deli)
 else
   puts "The line is currently:"
 
+def take_a_number(katz_deli, name)
+end
