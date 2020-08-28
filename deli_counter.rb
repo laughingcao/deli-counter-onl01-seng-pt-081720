@@ -7,3 +7,5 @@ else
     katz_deli.counter + 1
   puts "Welcome, "#{name}". You are number "#{katz_deli}" in line."
 end
+
+def take_a_number(katz_deli, name)
