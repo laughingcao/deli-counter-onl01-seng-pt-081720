@@ -4,3 +4,4 @@ def line(katz_deli)
   puts "The line is currently empty."
 else
   puts "Welcome, "#{name}". You are number "#{katz_deli}" in line."
+end
