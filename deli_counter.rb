@@ -5,8 +5,3 @@ def line(katz_deli)
 else 
   puts "The line is currently:"
 end
-
-def take_a_number(katz_deli, name)
-  katz_deli.length <= 1
-  puts "Welcome, "#{name}. You are number #{katz_deli} in line.
-end
